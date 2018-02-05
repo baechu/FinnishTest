@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinnishTest</string>
+    <string name="q_1">Kysymys #1</string>
+    <string name="q_2">Kysymys #2</string>
+    <string name="q_3">Kysymys #3</string>
+    <string name="q_4">Kysymys #4</string>
+    <string name="q_5">Kysymys #5</string>
+    <string name="question_1">Suomi on kaksikielinen maa. Mikä on toinen virallinen kieli?</string>
+    <string name="question_2">Mikä on Suomen pohjoisin kaupunki?</string>
+    <string name="question_3">Mitkä värit muodostavat Suomen lipun?</string>
+    <string name="question_4">Mikä oli Suomen ensimmäinen pääkaupunki?</string>
+    <string name="question_5">Mikä kieli on lähimpänä Suomen kieltä?</string>
+    <string name="Submit">Lähetä</string>
+    <string name="result">Tuloksesi on: </string>
+    <string name="points"> pistettä!</string>
+    <string name="ans_11">Venäjän kieli</string>
+    <string name="ans_12">Ruotsin kieli</string>
+    <string name="ans_13">Norjan kieli</string>
+    <string name="ans_14">Englannin kieli</string>
+    <string name="ans_31">Valkoinen</string>
+    <string name="ans_32">Punainen</string>
+    <string name="ans_33">Sininen</string>
+    <string name="ans_34">Keltainen</string>
+    <string name="ans_51">Ruotsin kieli</string>
+    <string name="ans_52">Norjan kieli</string>
+    <string name="ans_53">Tanskan kieli</string>
+    <string name="ans_54">Viron kieli</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinnishTest</string>
+    <string name="q_1">Fråga #1</string>
+    <string name="q_2">Fråga #2</string>
+    <string name="q_3">Fråga #3</string>
+    <string name="q_4">Fråga #4</string>
+    <string name="q_5">Fråga #5</string>
+    <string name="question_1">"Finland är ett tvåspråkigt land. Vad är ett annat officiellt språk? "</string>
+    <string name="question_2">Vad är den nordligaste staden i Finland?</string>
+    <string name="question_3">Vilka färger är den finska flaggan?</string>
+    <string name="question_4">Vad var Finlands första huvudstad?</string>
+    <string name="question_5">Vilket språk ligger närmast det finska språket?</string>
+    <string name="ans_11">Ryska</string>
+    <string name="ans_12">Svenska</string>
+    <string name="ans_13">Norska</string>
+    <string name="ans_14">Engelska</string>
+    <string name="ans_23">Enare</string>
+    <string name="ans_31">Vit</string>
+    <string name="ans_32">Röd</string>
+    <string name="ans_33">Blå</string>
+    <string name="ans_34">Gul</string>
+    <string name="ans_41">Åbo</string>
+    <string name="ans_42">Helsingfors</string>
+    <string name="ans_44">Tammerfors</string>
+    <string name="ans_43">Mariehamn</string>
+    <string name="ans_51">Svenska</string>
+    <string name="ans_52">Norska</string>
+    <string name="ans_53">Danska</string>
+    <string name="ans_54">Estniska</string>
+</resources>

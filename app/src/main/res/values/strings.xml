@@ -1,0 +1,36 @@
+<resources>
+<string name="app_name">FinnishTest</string>
+<string name="q_1">Question #1</string>
+<string name="q_2">Question #2</string>
+<string name="q_3">Question #3</string>
+<string name="q_4">Question #4</string>
+<string name="q_5">Question #5</string>
+<string name="question_1">Finland is bilingual. What\'s the second official language?</string>
+<string name="ans_11">Russian</string>
+<string name="ans_12">Swedish</string>
+<string name="ans_13">Norwegian</string>
+<string name="ans_14">English</string>
+<string name="question_2">What\'s the northernmost Finnish city?</string>
+<string name="ans_21">Utsjoki</string>
+<string name="ans_22">Rovaniemi</string>
+<string name="ans_23">Inari</string>
+<string name="ans_24">Sodankylä</string>
+<string name="question_3">What colors are there on the Finnish flag?</string>
+<string name="ans_31">White</string>
+<string name="ans_32">Red</string>
+<string name="ans_33">Blue</string>
+<string name="ans_34">Yellow</string>
+<string name="question_4">Which city was the first capital on Finland?</string>
+<string name="ans_41">Turku</string>
+<string name="ans_42">Helsinki</string>
+<string name="ans_43">Maarianhamina</string>
+<string name="ans_44">Tampere</string>
+<string name ="question_5">Which language is the closest relative to Finnish?</string>
+<string name="ans_51">Swedish</string>
+<string name="ans_52">Norwegian</string>
+<string name="ans_53">Danish</string>
+<string name="ans_54">Estonian</string>
+<string name="Submit">Submit</string>
+<string name="result">Your grade is: </string>
+<string name="points"> points!</string>
+</resources>
